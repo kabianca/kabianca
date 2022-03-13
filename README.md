@@ -1,7 +1,7 @@
 ### Hello!! I'm Karla Bianca S Oliveira, but you can call me Bianca.
 - I'm Archaeologist ⛏️, who loves remote sensing 📡, data management 💻, map design 🗺️ and free software...
-- 🔭 I’m looking to collaborate on geoprocessing projects or data analasys...
-- 🌱 I’m currently learning python... in a continuous learning process!
+- 🔭 I’m looking to collaborate on geoprocessing projects or data analasys... preferably in archaeological and historical research, but I am completely open to other opportunities!
+- 🌱 I’m currently learning python.
 - 😄 Pronouns: She/Her.
 
 <div> 
