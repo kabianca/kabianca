@@ -1,5 +1,5 @@
 ### Hello!! I'm Karla Bianca S Oliveira, but you can call me Bianca.
-- I'm an archaeologist ⛏️ who loves remote sensing 📡, data management 💻, map design 🗺️ and free software...
+- I'm an archaeologist ⛏️ and KDE community contributor who loves remote sensing 📡, data science 💻 and map design 🗺️...
 - 🔭 I’m looking to collaborate on geoprocessing projects or data analasys... preferably in archaeological and historical research, but I am completely open to other opportunities!
 - 🦄 Programming languages:<strong> HTML, CSS e JavaScript </strong>
 - 👩🏻‍💻 Learning:<strong> Python and Shell GNU </strong>
