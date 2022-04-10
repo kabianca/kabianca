@@ -1,6 +1,6 @@
 ### Hello!! I'm Karla Bianca S Oliveira, but you can call me Bianca.
 - I'm an archaeologist ⛏️ and KDE community contributor who loves remote sensing 📡, data science 💻 and map design 🗺️...
-- 🔭 I’m looking to collaborate on geoprocessing projects or data analasys... preferably in archaeological and historical research, but I am completely open to other opportunities!
+- 🔭 I’m looking to collaborate on geoprocessing projects or data analasys... specially in social sciences or archaeological/historical researches, but I am completely open to other opportunities!
 - 🦄 Languages:<strong> HTML, CSS e JavaScript </strong>
 - 👩🏻‍💻 Learning:<strong> Python and Shell GNU </strong>
 - 😄 Pronouns: She/Her
