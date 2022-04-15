@@ -3,7 +3,7 @@
 - I'm an archaeologist ⛏️ and KDE community contributor who loves remote sensing 📡, data science 💻 and map design 🗺️...
 - 🔭 I’m looking to collaborate on geoprocessing projects or data analasys... specially in social sciences or archaeological/historical researches, but I am completely open to other opportunities!
 - 🦄 Languages:<strong> HTML, CSS e JavaScript </strong>
-- 👩🏻‍💻 Learning:<strong> Python and Shell GNU </strong>
+- 👩🏻‍💻 Learning:<strong> Python, SQL and Shell GNU </strong>
 
 <div align="center"> 
   <a href = "mailto:kbiancasol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
