@@ -2,9 +2,8 @@
 ...but you can call me Bianca.
 
 - 😄 Pronouns: She/Her
-- I'm an archaeologist ⛏️ and KDE community contributor who loves remote sensing 📡, data science 💻 and map design 🗺️
 - 🔭 I’m looking to collaborate on geoprocessing projects or data analysis, but I am completely open to other opportunities.
-- 👀 Curiosity about me... in my free time I perform data analysis applied to the Brazilian archaeological heritage.
+- 👀 Facts about me: I'm archaeologist ⛏️ and KDE community contributor who loves remote sensing 📡, map design 🗺️, and data science 💻. In my free time I perform data analysis applied to the Brazilian archaeological heritage.
 
 
 ### Tools ans technologies...
