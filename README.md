@@ -1,5 +1,4 @@
 ## Hello!! I'm Karla Bianca S Oliveira
-...but you can call me Bianca.
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m looking to collaborate on geoprocessing projects or data analysis, but I am completely open to other opportunities.
