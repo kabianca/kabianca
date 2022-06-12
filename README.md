@@ -1,8 +1,8 @@
 ## Hello!! I'm Karla Bianca S Oliveira
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m looking to collaborate on geoprocessing projects or data analysis, but I am completely open to other opportunities.
-- 👀 Facts about me: I'm archaeologist ⛏️ and KDE community contributor who loves remote sensing 📡, map design 🗺️, and data science 💻. In my free time I perform data analysis applied to the Brazilian archaeological heritage.
+- 🔭 I’m looking to collaborate with data science projects.
+- 👀 Facts about me: I'm archaeologist ⛏️ and KDE community contributor who loves data science 💻, remote sensing 📡, map design 🗺️ and collaborative learning experiences. In my free time I perform data analysis applied to the Brazilian archaeological heritage.
 
 
 ### Tools ans technologies...
