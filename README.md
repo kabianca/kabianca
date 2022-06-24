@@ -1,7 +1,11 @@
-## Olá!! Meu nome é Karla Bianca S Oliveira
+## Olá!! Meu nome é Karla Bianca S Oliveira (ela/Dela)
 
-- 😄 Pronomes: Ela/Dela
-- 👀 Fatos sobre mim: Tenho formação acadêmica em arqueologia ⛏️, mas atualmente estou em transição de carreira para a área de dados. No meu tempo livre contribuo com a comunidade KDE, estudo análise e boas práticas de apresentação de dados 💻 e sensoriamento remoto 📡. Estou sempre em busca de experiências de aprendizado colaborativo e novos desafios. 
+👀 Fatos sobre mim: 
+* Tenho graduação e mestrado em arqueologia ⛏️, mas atualmente estou em transição de carreira para a área de dados 📈;
+* No meu tempo livre contribuo com a Comunidade KDE;
+* Estudo análise e boas práticas de apresentação de dados 💻;
+* Métodos e inovações de sensoriamento remoto 📡;
+* Estou sempre em busca de experiências de aprendizado colaborativo e novos desafios. 
 
 <hr>
 
