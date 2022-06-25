@@ -1,4 +1,4 @@
-## Olá!! Meu nome é Karla Bianca S Oliveira (ela/Dela)
+## Olá!! Meu nome é Karla Bianca S Oliveira (Ela/Dela)
 
 👀 Fatos sobre mim: 
 * Tenho graduação e mestrado em arqueologia ⛏️, mas atualmente estou em transição de carreira para a área de dados 📈;
