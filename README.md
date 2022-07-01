@@ -1,11 +1,12 @@
-## Olá!! Meu nome é Karla Bianca S Oliveira (Ela/She/Her) ✨
+## Olá!! Meu nome é Karla (Ela/She/Her) ✨
 
-👀 Fatos sobre mim: 
-* Tenho graduação e mestrado em arqueologia ⛏️, mas atualmente estou em transição de carreira para a área de dados 📈;
-* No meu tempo livre contribuo com a [Comunidade KDE](https://kde.org/);
-* Estudo métodos de análise de dados e boas práticas de apresentação desses dados 💻;
-* Métodos e inovações de sensoriamento remoto 📡;
+##### 👀 Fatos sobre mim: 
+* Tenho graduação e mestrado em arqueologia ⛏️ com foco em populações escravizadas ao longo do período colonial, mas atualmente estou em transição de carreira para a área de dados 📈;
 * Estou sempre em busca de experiências de aprendizado colaborativo e novos desafios.
+##### No meu tempo livre:
+- Contribuo com a [Comunidade KDE](https://kde.org/);
+- Estudo métodos de análise de dados e boas práticas de apresentação desses dados 💻;
+- Pesquiso sobre métodos e inovações de sensoriamento remoto 📡 e sobre classificação de imagens;
 
 
 ### Ferramentas e tecnologias...
