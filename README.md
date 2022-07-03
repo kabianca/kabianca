@@ -2,7 +2,7 @@
 
 ##### 👀 **Fatos sobre mim:** 
 * Tenho graduação e mestrado em arqueologia ⛏️ com foco em populações escravizadas ao longo do período colonial
-* Atualmente estou em transição de carreira para a área de dados 📈
+* No momento estou em transição de carreira para a área de dados 📈
 ##### **No meu tempo livre:**
 - Contribuo com a [Comunidade KDE](https://kde.org/)
 - Estudo métodos de análise de dados e boas práticas de apresentação desses dados 💻
