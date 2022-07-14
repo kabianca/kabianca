@@ -1,18 +1,19 @@
-## Olá!! Meu nome é Karla (Ela/She/Her) ✨
+## Hi there!! Welcome to my Github profile ✨
 
-##### 👀 **Fatos sobre mim:** 
-* Estou em transição de carreira para a análise de dados 📈
-* Tenho graduação e mestrado em arqueologia ⛏️ com foco em populações escravizadas ao longo do período colonial
-##### **No meu tempo livre:**
-- Contribuo com a [Comunidade KDE](https://kde.org/)
-- Estudo métodos de análise de dados e boas práticas de apresentação desses dados 💻
-- Pesquiso sobre métodos e inovações de sensoriamento remoto 📡 e sobre classificação de imagens
+##### 👀 **Facts about me:** 
+* Pronouns: She/Her
+* I'm in a career transition to data analytics 📈
+* I have a bachelor's and master's degree in archeology ⛏️. In the bachelor's degree I researched on automated classification of ceramic vessels and in the master's degree I researched about enslaved people in the colonial period of Brazil.
+##### **In my free time:**
+- I contribute to the [KDE Community](https://kde.org/)
+- I study data analysis, storytelling and best practices for presenting data 💻
+- I learn about remote sensing methods 📡 and image classification
 
 
-### Ferramentas e tecnologias...
+### Technologies and tools...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" height="35"/>
 
-### Aprendendo...
+### Learning...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" height="35"/>
 
           
