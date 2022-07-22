@@ -4,7 +4,6 @@
 * Pronouns: She/Her
 * I'm in a career transition to data analytics 📈
 * I have a bachelor's and master's degree in archeology ⛏️. In the bachelor's degree I researched on automated classification of ceramic vessels and in the master's degree I researched about enslaved people in colonial Brazil.
-##### **In my free time:**
 - I contribute to the [KDE Community](https://kde.org/)
 - I study data analysis, storytelling and best practices for presenting data 💻
 - I learn about remote sensing methods 📡 and image classification
