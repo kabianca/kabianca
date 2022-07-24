@@ -1,14 +1,5 @@
 ## Hi there!! Welcome to my Github profile ✨
 
-##### 👀 **Facts about me:** 
-* Pronouns: She/Her
-* I'm in a career transition to data analytics 📈
-* I have a bachelor's and master's degree in archeology ⛏️. In the bachelor's degree I researched on automated classification of ceramic vessels and in the master's degree I researched about enslaved people in colonial Brazil.
-* I contribute to the [KDE Community](https://kde.org/)
-* I study data analysis, storytelling and best practices for presenting data 💻
-* I learn about remote sensing methods 📡 and image classification
-
-
 ### Technologies and tools...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" height="35"/>
 
