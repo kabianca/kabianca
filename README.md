@@ -1,13 +1,12 @@
 ## Hi there!! Welcome to my Github profile ✨
-### I'm Karla (She/Her)
-- I have a bachelor's and master's degree in archeology ⛏️. In the bachelor's degree I researched on automated classification of ceramic vessels and in the master's degree I researched about enslaved people in colonial Brazil.
-- 👯 I contribute to the [KDE Community](https://kde.org/)
+#### I'm Karla (She/Her)
+- 👯 I'm Frontend Web Developer Student, archaeologist and contribute to the [KDE Community](https://kde.org/) 
 - 🌱 I’m currently learning JavaScript, storytelling 📜 and image classification 📷
 
-### Technologies and tools...
+##### Technologies and tools...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" height="35"/>
 
-### Learning...
+##### Learning...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" height="35"/>
 
 <div align=center>
