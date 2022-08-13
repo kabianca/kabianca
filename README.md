@@ -1,6 +1,6 @@
 ## Hi there!! Welcome to my Github profile ✨
 #### I'm Karla (She/Her)
-- 👯 I'm Frontend Web Developer Student, archaeologist and contribute to the [KDE Community](https://kde.org/) 
+- 👯 I'm Frontend Web Developer Student, data analyst, archaeologist and contribute to the [KDE Community](https://kde.org/) 
 - 🌱 I’m currently learning JavaScript, storytelling 📜 and image classification 📷
 
 ##### Technologies and tools...
