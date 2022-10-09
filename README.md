@@ -1,25 +1,31 @@
-## Hi there!! Welcome to my Github profile ✨
-#### I'm Karla (She/Her)
-- 👯 I'm Frontend Web Developer Student, data analyst, archaeologist and contribute to the [KDE Community](https://kde.org/) 
-- 🌱 I’m currently learning JavaScript, storytelling 📜 and image classification 📷
+## Hi there!! I'm Karla Oliveira and welcome to my Github profile ✨
+<img align='right' src="https://user-images.githubusercontent.com/101295603/194767152-7f1fd9ae-87b6-4c95-a671-9531366b61ff.png" width="400">
 
-##### Technologies and tools...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" height="35"/>
+<p><em>I'm Frontend Web Developer Student, Data Analyst and Archaeologist.</em></p>
 
-##### Learning...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" height="35"/>
+<a href = "mailto:kbiancasol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/karlabiancasol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-<div align=center>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const karla = {
+  pronouns: "she" | "her",
+  code: [Javascript, Python, SQL, HTML, CSS],
+  tools: [Node.js, Jest, Jupyter Notebook, PowerBI, Figma],
+  techCommunities: {
+                        contribute: "KDE Community"
+                      }
+  chalenger: "I am working on an algorithm for morphological 
+              classification of archaeological vessels in Python"
+}
+```
+<div>
 <a href="https://github.com/kabianca">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabianca&layout=compact&langs_count=7&theme=apprentice"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kabianca&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-</div>  
-
-<div align=center> 
-  <a href = "mailto:kbiancasol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/karlabiancasol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
 
 <!---
 kabianca/kabianca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
