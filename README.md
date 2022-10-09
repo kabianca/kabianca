@@ -17,8 +17,9 @@ const karla = {
   techCommunities: {
                         contribute: "KDE Community"
                       }
-  chalenger: "I am working on an algorithm for morphological 
-              classification of archaeological vessels in Python"
+  chalenger: "I am working on an algorithm for
+              morphological classification of 
+              archaeological vessels in Python"
 }
 ```
 <div>
