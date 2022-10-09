@@ -13,7 +13,8 @@
 const karla = {
   pronouns: "she" | "her",
   code: [Javascript, Python, SQL, HTML, CSS],
-  tools: [Node.js, Jest, Jupyter Notebook, PowerBI, Figma],
+  tools: [Node.js, Jest, Jupyter Notebook, 
+          Notion, PowerBI, Figma, Qgis/ArcGis],
   techCommunities: {
                         contribute: "KDE Community"
                       }
