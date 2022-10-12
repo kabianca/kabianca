@@ -1,5 +1,5 @@
 ## Hi there!! I'm Karla Oliveira and welcome to my Github profile ✨
-<img align='right' src="https://user-images.githubusercontent.com/101295603/194767152-7f1fd9ae-87b6-4c95-a671-9531366b61ff.png" width="390">
+<img align='right' src="https://user-images.githubusercontent.com/101295603/194767152-7f1fd9ae-87b6-4c95-a671-9531366b61ff.png" width="320">
 
 <p><em>I'm Frontend Web Developer Student, Data Analyst and Archaeologist. Currently I'm focused on learning javascript, storytelling and image classification."</em></p>
 
