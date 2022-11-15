@@ -11,10 +11,11 @@
 
 ```javascript
 const karla = {
-  pronouns: "she" | "her",
+  pronouns: [she, her], 
   code: [Javascript, Python, SQL, HTML, CSS],
   tools: [Node.js, Jest, Jupyter Notebook, Notion, 
-          PowerBI, Figma, Tableau, Qgis/ArcGis],
+          GitHub Projects, PowerBI, Figma, Tableau,
+          Excel, Qgis/ArcGis],
   techCommunities: {
                         contribute: "KDE Community"
                       }
