@@ -1,7 +1,7 @@
 ## Hi there!! I'm Karla Oliveira and welcome to my Github profile ✨
 <img align='right' src="https://user-images.githubusercontent.com/101295603/194767152-7f1fd9ae-87b6-4c95-a671-9531366b61ff.png" width="320">
 
-<p><em>I'm Frontend Web Developer Student, Data Analyst and Archaeologist. Currently I'm focused on learning javascript, storytelling and image classification."</em></p>
+<p><em>I'm Data Engineer in finance sector. Currently I'm focused on learning python, spark, storytelling and image classification."</em></p>
 
 <a href = "mailto:kbiancasol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/karlabiancasol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
