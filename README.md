@@ -12,10 +12,10 @@
 ```javascript
 const karla = {
   pronouns: [she, her], 
-  code: [Javascript, Python, SQL, HTML, CSS],
-  tools: [Node.js, Jest, Jupyter Notebook, Notion, 
-          GitHub Projects, PowerBI, Figma, Tableau,
-          Excel, Qgis/ArcGis],
+  code: [Python, SQL, Javascript],
+  tools: [Spark, Databricks, Atlas MongoDB, Hive,
+          Notion, Teradata, Git, PowerBI,
+          Figma, Qgis/ArcGis],
   techCommunities: {
                         contribute: "KDE Community"
                       }
