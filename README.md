@@ -22,12 +22,6 @@ const karla = {
 }
 ```
 
-<div>
-<a href="https://github.com/kabianca">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabianca&layout=compact&langs_count=7&theme=apprentice"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kabianca&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-</div>
-
 <!---
 kabianca/kabianca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
