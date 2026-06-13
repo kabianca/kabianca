@@ -23,7 +23,7 @@ const karla = {
 ```
 
 ![GitHub Stats](https://github-readme-stats-rho-nine-50.vercel.app/api?username=kabianca&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats-rho-nine-50.vercel.app/api/top-langs/?username=kabianca&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-rho-nine-50.vercel.app/api/top-langs/?username=kabianca&layout=compact&theme=dracula&count_private=true)
 
 <!---
 kabianca/kabianca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
