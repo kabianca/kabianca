@@ -3,7 +3,7 @@
 
 <p><em>I'm a Data Engineer in the financial sector, building scalable data pipelines and Generative AI / LLM solutions on Cloud (Azure).
 
-Currently exploring: AWS, Data Mesh, ML model training, data annotation, and prompt engineering — always learning something new to bring into real-world projects."</em></p>
+Currently exploring: AWS, Data Mesh, ML model training, data annotation, and prompt engineering, always learning something new to bring into real-world projects."</em></p>
 
 <a href = "mailto:kbiancasol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/karlaboliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
